@@ -186,7 +186,7 @@ body {
   background-color: var(--color-background-500);
 }
 
-*/ .list-watched {
+.list-watched {
   height: calc(100% - 9rem);
 }
 
